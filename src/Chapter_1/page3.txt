@@ -1,3 +1,2 @@
-Java is wonderful
-
 Java is fun
+Java is cool
